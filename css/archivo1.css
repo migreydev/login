@@ -1,0 +1,60 @@
+body {
+  background-image: url('./istockphoto-1160380152-612x612.jpg');
+
+  
+}
+
+.div-left {
+  opacity: 70%;
+  background-image: url('./planta-selva-verde-47367.jpg');
+  background-color: rgba(112, 160, 124, 0.685);
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  width: 90%;
+  height: 90%;
+  text-align: center;
+  border: 0.7px solid #000;
+
+}
+.container {
+  display: flex;
+  align-items: center;
+  margin-top: 200px;
+  width: 1000px;
+  height: 500px;
+  background-color: #c2e6c7#6DD5FA
+  
+}
+
+.div-right {
+  
+  width: 90%;
+  height: 90%;
+  text-align: center;
+  border: 0.7px solid #000;
+  background-color: rgba(149, 192, 167, 0.733);
+}
+
+
+.login{
+  text-align: center;
+  margin-top: 70px;
+  width: 500px;
+  height: 500px;
+}
+
+form input{
+  border: none;
+  border-bottom: solid 1px #29b96a;
+  padding: 0 5px;
+  font-size: 18px;
+}
+
+.describe{
+  text-align: center;
+  margin-top: 170px;
+  width: 500px;
+  height: 500px;
+}
+

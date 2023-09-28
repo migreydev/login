@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(217, 235, 243);
+  background-image: url('./photo-1484387436194-cf7cb70800ce.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-position: center center;
+
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  margin-top: 200px;
+  width: 1000px;
+  height: 500px;
+  background-color: #2980B9#6DD5FA
+}
+
+.div-right, .div-left {
+  width: 90%;
+  height: 90%;
+  text-align: center;
+  border: 0.7px solid #000;
+}
+
+.div-left {
+  background-color: rgb(113, 163, 197);
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+
+.div-right {
+  background-color: rgba(165, 201, 223, 0.74);
+}
+
+.div-left {
+  background-image: url('./HD-wallpaper-mar-azul-nature-mar-waves-blue.jpg');
+  opacity: 70%;
+  background-color: rgb(113, 163, 197);
+}
+
+.login{
+  text-align: center;
+  margin-top: 130px;
+  width: 500px;
+  height: 500px;
+}
+
+form input{
+  border: none;
+  border-bottom: solid 1px #2980B9;
+  padding: 0 5px;
+  font-size: 18px;
+}
+
+.describe{
+  text-align: center;
+  margin-top: 170px;
+  width: 500px;
+  height: 500p;
+
+  
+}
+
